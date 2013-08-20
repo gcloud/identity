@@ -1,7 +1,7 @@
 Identity
 ================
 
-[GCloud](http://gcloud.io) identity package for cloud services.
+[GCloud](http://gcloud.io), Go Packages for Cloud Services.
 
 API
 ---
