@@ -5,4 +5,7 @@ package identity
 
 import ()
 
-type Account struct{}
+type Account struct {
+	Key   string
+	Token string
+}
