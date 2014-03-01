@@ -6,6 +6,7 @@ package identity
 import ()
 
 type Account struct {
+	Id    string
 	Key   string
 	Token string
 }
